@@ -9,6 +9,5 @@ The script provided offers a concise implementation of the HP filter, showcasing
 All data utilized in this application is publicly available on the SGS (Sistema Gerenciador de Séries Temporais) page of the Central Bank of Brazil. You can access the data directly through the following link:
 [SGS - Central Bank of Brazil](https://www3.bcb.gov.br/sgspub/localizarseries/localizarSeries.do?method=prepararTelaLocalizarSeries)
 
-Please note that accessing the data may require registration or specific permissions on the SGS platform;
 
 Feel free to explore and adapt the script according to your analysis needs or for other economic datasets.
